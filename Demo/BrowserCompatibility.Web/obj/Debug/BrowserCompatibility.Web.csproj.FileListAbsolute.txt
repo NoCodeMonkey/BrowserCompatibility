@@ -1,0 +1,7 @@
+C:\Development\GitHub\BrowserCompatibility\Demo\BrowserCompatibility.Web\bin\BrowserCompatibility.Web.dll
+C:\Development\GitHub\BrowserCompatibility\Demo\BrowserCompatibility.Web\bin\BrowserCompatibility.Web.pdb
+C:\Development\GitHub\BrowserCompatibility\Demo\BrowserCompatibility.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\GitHub\BrowserCompatibility\Demo\BrowserCompatibility.Web\obj\Debug\BrowserCompatibility.Web.dll
+C:\Development\GitHub\BrowserCompatibility\Demo\BrowserCompatibility.Web\obj\Debug\BrowserCompatibility.Web.pdb
+C:\Development\GitHub\BrowserCompatibility\Demo\BrowserCompatibility.Web\bin\BrowserCompatibility.dll
+C:\Development\GitHub\BrowserCompatibility\Demo\BrowserCompatibility.Web\bin\BrowserCompatibility.pdb
